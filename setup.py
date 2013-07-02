@@ -14,5 +14,5 @@ setup(
     version = "0.1",
     description = "Simple creating md5 checksum to use PyQt4 script",
     options = {"build_exe" : build_options},
-    executables = [Executable("qtgui.py", base = base)]
+    executables = [Executable("main.py", base = base)]
 )
