@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"target",
+				"targetLayer"
+			],
+			[
+				"zoom",
+				"zoomInAnimation"
+			],
+			[
+				"zoomTo",
+				"zoomToAnimation"
+			],
+			[
+				"searchFrom",
+				"searchRelatedFromQuery"
+			],
+			[
+				"tmp",
+				"tmpHTMLTree"
+			],
+			[
+				"recv",
+				"recvParsedHtml"
+			],
+			[
+				"resul",
+				"resultJSON"
+			],
+			[
+				"contents",
+				"contentsLayer"
+			],
+			[
+				"create",
+				"createSearchResultRect"
+			],
+			[
+				"i",
+				"i"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 1662,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "setup.py",
+			"settings":
+			{
+				"buffer_size": 505,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/WORKING/Projects/BrowserLED/index.html",
+		"/D/WORKING/Projects/kineticjs-animations/tmp",
+		"/D/WORKING/Projects/Gorrra/GorrraWeb/templates/result_template.html",
+		"/D/WORKING/Projects/kineticjs-animations/tmp.html",
+		"/D/WORKING/Projects/kineticjs-animations/kinetic-animations.js",
+		"/D/WORKING/Projects/Gorrra/GorrraWeb/templates/search_form.html",
+		"/D/WORKING/Projects/Gorrra/GorrraWeb/index.html",
+		"/D/WORKING/Projects/BrowserLED/js/kineticjs-animations.js",
+		"/D/WORKING/Projects/sandbox/FizzBuzz.py",
+		"/D/WORKING/Projects/BrowserLED/js/jquery-1.10.2.min.js",
+		"/D/WORKING/Projects/SSSNotifier/steamAppList",
+		"/D/WORKING/Projects/BrowserLED/js/kinecticjs-animations.js",
+		"/D/WORKING/Projects/lobotomizer/templates/index.html",
+		"/D/WORKING/Projects/BrowserLED/js/kinecticjs-animation.js",
+		"/D/WORKING/Projects/HungerGameChallenge/tester.py",
+		"/D/WORKING/Projects/lobotomizer/lobotomizer/views.py",
+		"/D/WORKING/Projects/Gorrra/GorrraWeb/templates/template_search.html",
+		"/C/Python33/Lib/site-packages/korean-0.1.7-py3.3.egg/korean/__init__.py",
+		"/D/WORKING/Projects/HungerGameChallenge/hunger.py",
+		"/D/WORKING/Projects/lobotomizer/lobotomizer/lobotomize.py",
+		"/D/WORKING/Projects/korean/korean/__init__.py",
+		"/D/WORKING/Projects/lobotomizer/COPYING",
+		"/D/WORKING/Projects/lobotomizer/README.md",
+		"/D/WORKING/Projects/lobotomizer/requirements.txt",
+		"/D/WORKING/Projects/pylast/pylast.py",
+		"/D/WORKING/Projects/lobotomize/requirements.txt",
+		"/D/WORKING/Projects/Gorrra/GorrraWeb/Gorrra/urls.py",
+		"/C/Users/LYJ/Desktop/test.html",
+		"/D/WORKING/Projects/Gorrra/GorrraCore/main.py",
+		"/D/WORKING/Projects/Gorrra/GorrraWeb/Gorrra/views.py",
+		"/D/WORKING/Projects/lobotomizer/lobotomizer/settings.py",
+		"/C/Python33/Lib/site-packages/korean-0.1.7-py3.3.egg/korean/hangul.py",
+		"/C/Python33/Lib/site-packages/korean-0.1.7-py3.3.egg/korean/data.json",
+		"/D/WORKING/Projects/korean/LICENSE",
+		"/D/WORKING/Projects/korean/docs/index.rst",
+		"/D/WORKING/Projects/korean/README",
+		"/D/WORKING/예정 기획서/1. HTML5를 이용한 웹 브라우저 전광판",
+		"/D/WORKING/Projects/lobotomizer/lobotomizer/lobotomizer/views.py",
+		"/D/WORKING/Projects/lobotomizer/lobotomizer/lobotomizer/lobotomize.py",
+		"/D/WORKING/Projects/lobotomizer/lobotomizer/lobotomizer/urls.py",
+		"/D/WORKING/Projects/lobotomize/lobotomize.py",
+		"/D/WORKING/Projects/Gorrra/GorrraWeb/templates/template_searchRelated.html",
+		"/D/WORKING/Projects/BrowerLED/index.html",
+		"/D/WORKING/Projects/BrowerLED/js/jquery-1.10.2.min.js",
+		"/D/WORKING/Projects/BrowerLED/js/kinetic-v4.5.4.min.js",
+		"/D/WORKING/Projects/SSSNotifier/main.py",
+		"/D/WORKING/Projects/Gorrra/GorrraWeb/Gorrra/wsgi.py",
+		"/D/WORKING/Projects/Gorrra/GorrraWeb/Gorrra/settings.py",
+		"/D/WORKING/Projects/twitcide/twitcide.py",
+		"/D/WORKING/Projects/JirumTwit/jtwit.py",
+		"/D/WORKING/Projects/TwitSaleBot/jirumtwit.py",
+		"/D/WORKING/Projects/sandbox/pytemplate.py",
+		"/C/Windows/System32/energy-report.html",
+		"/D/WORKING/예정 기획서/1. HTML5를 이용한 웹 브라우저 전광판.",
+		"/D/WORKING/Projects/Gorrra/GorrraWeb/templates/html5example.html",
+		"/D/WORKING/Projects/Gorrra/GorrraWeb/templates/html5example_method.html",
+		"/D/WORKING/작업로그/SSSNotifier 고치기",
+		"/D/WORKING/Projects/Gorrra/GorrraCore/pyoutube.py",
+		"/D/WORKING/Projects/SSSNotifier/dSaleList",
+		"/C/Users/LYJ/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/LYJ/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/WORKING/Projects/Gorrra/GorrraCore/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\n",
+			"setCenterScale",
+			"innerHTML",
+			"));\n",
+			"template",
+			"path",
+			".getSimilar",
+			"get_simi",
+			"similar",
+			"searchRelated",
+			"template4",
+			"template",
+			"searchRelatedFromQuery",
+			"template",
+			"TEMPLATE",
+			"showCon",
+			".Text",
+			"showContentsLayer",
+			"left",
+			".Rect",
+			"showContentsRect",
+			"hideContentsRect",
+			"setToTop",
+			"();\n",
+			"showContentsRect",
+			"showContentsLayer",
+			"Mousedown or touchstart",
+			")';",
+			"Mousedown or touchstart",
+			"showContentsLayer",
+			"contentsLayer",
+			"console.log",
+			"{\n",
+			"console.log",
+			"removeAllSearchResultRect",
+			"buttonLayer ",
+			"getLayer",
+			"removeAllSearchResultRect",
+			"createSearchResult",
+			"createSearchResultRect",
+			"fadeInAnimation",
+			"createSearchResultRect",
+			"fadeIn",
+			", ",
+			"fadeOutAnimation",
+			"28187",
+			"legendary edition",
+			"skyrim",
+			"1",
+			"twitter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								900,
+								900
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								505,
+								505
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"project": "SimpleMD5Checksum.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

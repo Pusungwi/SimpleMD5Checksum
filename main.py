@@ -18,7 +18,7 @@ class Example(QtGui.QWidget):
 		self.initUI()
 
 	def initUI(self):
-		self.setToolTip('This is a <b>QWidget</b> example')
+		self.setToolTip('This is a <b>Simple</b> MD5 Creator')
 
 		tText = QtGui.QLabel('Target Text')
 		cText = QtGui.QLabel('Checksum (MD5)')
@@ -27,6 +27,7 @@ class Example(QtGui.QWidget):
 		self.tTextBox.textChanged.connect(self.makeMD5checksum)
 
 		self.cTextBox = QtGui.QLineEdit()
+		self.cTextBox.setReadOnly(True)
 
 		grid = QtGui.QGridLayout()
 		grid.setSpacing(10)
